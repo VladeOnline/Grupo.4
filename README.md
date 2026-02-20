@@ -1,16 +1,51 @@
-# flutter_api
+# App.procesos
 
-A new Flutter project.
+CRUD basico en flutter
+Version: 1.0
+fecha: 19/2/2026
+integrantes: Vladimir Rosales Flores, Fernando Jesus Vargas, Cristian Josúe Quirós
 
-## Getting Started
+Roles 
+Cristian Josúe Quirós ( •	Auditor de configuración. )
+Vladimir Rosales Flores ( •	Administrador de configuración. )
+Fernando Jesus Vargas ( •	Desarrollador. )
 
-This project is a starting point for a Flutter application.
+Responsabilidad de cada Rol 
 
-A few resources to get you started if this is your first Flutter project:
+Administrador de Configuración
+Responsabilidades:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Definir y mantener el plan de gestión de la configuración.
+2. Controlar versiones de documentos, código y entregables del proyecto.
+3. Autorizar y registrar cambios en los elementos de configuración.
+4. Asegurar que la información esté actualizada, organizada y respaldada.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Desarrollador
+Responsabilidades:
+
+1. Crear y modificar los productos o componentes del sistema conforme a los requisitos definidos.
+2. Registrar adecuadamente los cambios realizados en los elementos de configuración.
+3. Cumplir con los lineamientos establecidos en el plan de gestión de la configuración.
+
+
+Auditor de Configuración
+Responsabilidades:
+
+1. Verificar que los elementos de configuración cumplan con los requisitos establecidos.
+2. Revisar que los cambios estén debidamente aprobados y documentados.
+3. Evaluar el cumplimiento de las políticas y procedimientos de configuración.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
