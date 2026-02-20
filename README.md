@@ -1,6 +1,7 @@
 # App.procesos
 
-CRUD basico en flutter
+Este CRUD permite crear, consultar, buscar, actualizar y eliminar ítems en una base de datos MongoDB de forma segura, ordenada y escalable.
+
 Version: 1.0
 fecha: 19/2/2026
 integrantes: Vladimir Rosales Flores, Fernando Jesus Vargas, Cristian Josúe Quirós
