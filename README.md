@@ -1,8 +1,20 @@
 # App.procesos
 
 Este CRUD permite crear, consultar, buscar, actualizar y eliminar ítems en una base de datos MongoDB de forma segura, ordenada y escalable.
+Tecnologías utilizadas
 
-Version: 1.0
+Este proyecto fue desarrollado utilizando Flutter, un framework de código abierto
+
+Flutter
+Se utilizó como framework principal para el desarrollo de la interfaz de usuario
+
+Lenguaje Dart
+Flutter utiliza Dart como lenguaje de programación, el cual permite un desarrollo rápido, tipado seguro y alto rendimiento.
+
+Arquitectura del proyecto
+El proyecto sigue una estructura organizada que separa la lógica,  la interfaz de usuario y los servicios, facilitando el mantenimiento, la escalabilidad y la comprensión del código.
+
+Version: 4.5
 fecha: 19/2/2026
 integrantes: Vladimir Rosales Flores, Fernando Jesus Vargas, Cristian Josúe Quirós
 
